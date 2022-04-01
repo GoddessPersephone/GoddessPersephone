@@ -1,6 +1,5 @@
 ## Hi there! I am @laraveleal on Instagram👋
 
-[![GoddessPersephone/gitartwork](https://github.com/GoddesPersephone/gitartwork/blob/main/gitartwork.svg)](https://github.com/GoddessPersephone/gitartwork/)
 
 - 🤗I’m looking for help to start a developer career
 - 💬 Ask me about anything you want to know. I can help you to find the answer! 
