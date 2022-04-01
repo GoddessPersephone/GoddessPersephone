@@ -15,4 +15,4 @@ jobs:
         with:
            user_name: GoddessPersephone
            text: PERSEPHONE
-      - uses: GoddessPersephone/separatebusiness22@gmail.com
+      - uses: GoddessPersephone/simple-push-action@v1
