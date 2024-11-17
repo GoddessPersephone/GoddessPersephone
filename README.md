@@ -25,6 +25,6 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/SEU_USUARIO/github-contribution-grid-snake/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+  <img src="https://github.com/GoddessPersephone/github-contribution-grid-snake/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </div>
 
