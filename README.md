@@ -6,6 +6,7 @@
 - 📫 How to reach me on email and Instagram: leal3work@gmail.com / @laraveleal
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i'm studyng everyday! I have a dream!
+  
 <div align="center">
   <a href="https://api.whatsapp.com/send?phone=5541991640451" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://instagram.com/laraveleal" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
