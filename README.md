@@ -54,11 +54,11 @@ Let’s connect!
   </a>
 </p>
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
-![Lara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GoddessPersephone&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ![Lara's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GoddessPersephone&layout=compact&langs_count=7&theme=radical)
 
+![Lara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GoddessPersephone&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 <p align="center">💙 Let’s create something amazing together! 😊</p>
