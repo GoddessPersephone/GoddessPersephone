@@ -57,9 +57,10 @@ Let’s connect!
 </p>
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laraveronica&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Lara's GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laraveronica&layout=compact&langs_count=7&theme=radical" alt="Lara's Top Languages" height="180">
-</p>
+
+![Lara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GoddessPersephone&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Lara's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GoddessPersephone&layout=compact&langs_count=7&theme=radical)
+
 
 <p align="center">💙 Let’s create something amazing together! 😊</p>
