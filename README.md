@@ -1,7 +1,7 @@
 <body>
     <h1>👋 Hi there! Welcome to my GitHub!</h1>
     <p><strong>I'm Lara Veronica Leal</strong></p>
-    <p>💻 Backend Developer | 🌟 Aspiring Innovator | 🚀 Lifelong Learner</p>
+    <p>💻 Backend Developer | 🌟 Aspiring Innovator | 🚀 Lifelong Learner</p
 </body>
 
 
